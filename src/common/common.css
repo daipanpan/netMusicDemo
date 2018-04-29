@@ -1,0 +1,33 @@
+* {
+  list-style-type:none;
+}
+@font-face{
+  font-family: myFirstFont;
+  src: url('./fzkai-gbk-csl12-ch12.ttf')
+}
+
+html,body{
+  
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+.chinese-show{
+  font-family: myFirstFont;
+}
+
+a{text-decoration: none;outline: none;}
+a:hover,a:focus{color:#74777b;}
+
+ul,li{list-style-type:none;}
+
+li,ul{
+  padding: 0;
+  margin: 0;
+}
+h1, h2 {
+  font-weight: normal;
+}
+
