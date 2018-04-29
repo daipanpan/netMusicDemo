@@ -13,6 +13,7 @@ export default {
   name: 'findMusic',
   data () {
     return {
+      name: "daipanpan"
 
     }
   },
