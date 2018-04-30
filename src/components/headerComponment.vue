@@ -35,7 +35,7 @@ export default {
     return {
       loginFlag: false,
       age: 19,
-      msg: 'Welcome to Your Vue.js App. This is why we play. niaho dkjfh   '
+      msg: 'Welcome to Your Vue.js App. This is why we play. niaho dkjfh. yes,you are.   '
     }
   },
   components: {
