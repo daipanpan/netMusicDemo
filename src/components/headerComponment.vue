@@ -34,7 +34,7 @@ export default {
   data () {
     return {
       loginFlag: false,
-      msg: 'Welcome to Your Vue.js App. This is why we play. niaho   '
+      msg: 'Welcome to Your Vue.js App. This is why we play. niaho dkjfh   '
     }
   },
   components: {
