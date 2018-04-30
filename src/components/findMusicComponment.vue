@@ -13,7 +13,7 @@ export default {
   name: 'findMusic',
   data () {
     return {
-      name: "daipanpan test"
+      name: "daipanpan test mind map"
 
     }
   },
